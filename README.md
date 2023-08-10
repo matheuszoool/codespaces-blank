@@ -4,5 +4,4 @@ Projeto de desenvolvimento do jogo Pong com apoio da Alura.
 
 # Informações sobre o projeto
 
-O curso foi realizado na plataforma da Alura de forma bem didática, assim auxiliando para a criação do jogo Pong utilizando o p5.js, gostei muito de realizar esse projeto e estou bem feliz com o resultado.
-Para melhor entendimento deixo os códigos disponíveis para todos.
+O treinamento foi completado na plataforma da Alura com uma abordagem altamente didática, o que desempenhou um papel fundamental no desenvolvimento do jogo Pong usando p5.js. Fiquei realmente satisfeito com a execução desse projeto e estou animado com os resultados alcançados. Para garantir uma compreensão mais abrangente, decidi compartilhar os códigos para acesso público.
